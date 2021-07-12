@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joseph-m10
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Angualr and stuff
+- 👀 Interested in Software Development
+- 🌱 Always practicing :)
 - 📫 How to reach me -> https://www.linkedin.com/in/maria-anto-joseph-468074170/
 
 <!---
